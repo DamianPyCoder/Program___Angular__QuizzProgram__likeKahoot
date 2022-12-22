@@ -9,8 +9,9 @@ In the future my intention is to enable you to upload images, audios or even sma
 
 
 ### Technologies
-![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/angular_icon.png)
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/typescript.png)
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/js100.png)
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/angular_icon.png)
 ![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/icons/visualstudio.png)
 
 
